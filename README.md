@@ -1,2 +1,2 @@
 # practice
-Working on my assignments
+Working on my assignments in c
